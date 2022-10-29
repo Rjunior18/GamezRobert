@@ -25,7 +25,6 @@ include("marco-right.php");
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
                    <p class="eys-parrafo">Hola, yo soy Gamez Robert, Esatudiante de la Universidad Tecnica Luis Vargas Torres, y estoy siguiendo la carrera de Ingieneria y Tecnología de la Información en las cuales estoy cruzando el 7mo ciclo, en donde estoy resiviendo la materia de Gestion  de Software, en la cual estamos trabajando con el programa termux, un repositorio github y un hosting llamado cpanel. </p>
-                   <p class="eys-parrafo">Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. </p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
@@ -33,7 +32,7 @@ include("marco-right.php");
     
 
 
-		   <p class="eys-parrafo"> Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. Sacando el diploma en la especialidad de Tecnico en Electronica,culminando mis esrudios en el año 2009.</p>
+		   <p class="eys-parrafo"> Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. Sacando el diploma en la especialidad de Tecnico en Electronica,culminando mis estudios en el año 2009.</p>
 
 <h2 style="border-bottom: 1px solid green;">Un poco de experiencias laborales</h2>
 

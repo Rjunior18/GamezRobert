@@ -32,7 +32,8 @@ include("marco-right.php");
     
 
 
-		   <p class="eys-parrafo"> Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. Sacando el diploma en la especialidad de Tecnico en Electronica,culminando mis estudios en el año 2009.</p>
+		   <p class="eys-parrafo"> Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. Sacando el diploma en la especialidad de Tecnico en Electronica, culminando mis estudios en el año 2009.</p>
+
 
 <h2 style="border-bottom: 1px solid green;">Un poco de experiencias laborales</h2>
 
@@ -45,7 +46,7 @@ include("marco-right.php");
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Me gusta el deporte, casi siempre hago un poco de ejecicio en casa y cuando hay al gun campeonato trato de participar para tener un buen fisico y tambien se que me ayudara a tener una buena salud.</p>
+                   <p   class="eys-parrafo">Me gusta el deporte, casi siempre hago un poco de ejecicio en casa y cuando hay algun campeonato trato de participar para tener un buen fisico estar en forma y tambien es bueno hacer algun tipo de deporte porque nos ayudara a tener una buena salud.</p>
        
 
                    

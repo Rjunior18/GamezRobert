@@ -34,16 +34,20 @@ include("marco-right.php");
     
 
 
-                   <p class="eys-parrafo"> Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. Sacando el diploma en la especialidad de Tecnico en Electronica,culminando mis esrudios en el año 2009.</p>
-                   <p class="eys-parrafo"> He trabajado en albañileria de ayudante y tambien he trabajado en paros de planta en la refineria de Esmaraldas con la empresa contratista Leonardo Hernandez, esta enpresa era contratada por la empresa china SK que la refineria de esmeraldas contrataba la empresa china para que brinde sus servicios a la refineria de esmeraldas  y en muchas otras partes mas .</p>
-<p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
+		   <p class="eys-parrafo"> Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. Sacando el diploma en la especialidad de Tecnico en Electronica,culminando mis esrudios en el año 2009.</p>
+
+<h2 style="border-bottom: 1px solid green;">Un poco de experiencias laborales</h2>
+
+		   <p class="eys-parrafo"> He trabajado en albañileria de ayudante y tambien he trabajado en paros de planta en la refineria de Esmaraldas con la empresa contratista Leonardo Hernandez, esta enpresa era contratada por la empresa china SK que la refineria de esmeraldas contrataba la empresa china para que brinde sus servicios a la refineria de esmeraldas  y en muchas otras partes mas .</p>
+
+
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Me gusta el deporte, casi siempre hago un poco de ejecicio en casa y cuando hay al gun campwonato trato de participar para tener un buen fisico y tambien se que me ayudara a tener una buena salud.</p>
+                   <p   class="eys-parrafo">Me gusta el deporte, casi siempre hago un poco de ejecicio en casa y cuando hay al gun campeonato trato de participar para tener un buen fisico y tambien se que me ayudara a tener una buena salud.</p>
        
 
                    

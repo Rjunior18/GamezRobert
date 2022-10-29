@@ -26,7 +26,6 @@ include("marco-right.php");
            <div  style="text-align:justify; font-size: 20px;">
                    <p class="eys-parrafo">Hola, yo soy Gamez Robert, Esatudiante de la Universidad Tecnica Luis Vargas Torres, y estoy siguiendo la carrera de Ingieneria y Tecnología de la Información en las cuales estoy cruzando el 7mo ciclo, en donde estoy resiviendo la materia de Gestion  de Software, en la cual estamos trabajando con el programa termux, un repositorio github y un hosting llamado cpanel. </p>
                    <p class="eys-parrafo">Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. </p>
-<p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
 
@@ -38,7 +37,7 @@ include("marco-right.php");
 
 <h2 style="border-bottom: 1px solid green;">Un poco de experiencias laborales</h2>
 
-		   <p class="eys-parrafo"> He trabajado en albañileria de ayudante y tambien he trabajado en paros de planta en la refineria de Esmaraldas con la empresa contratista Leonardo Hernandez, esta enpresa era contratada por la empresa china SK que la refineria de esmeraldas contrataba la empresa china para que brinde sus servicios a la refineria de esmeraldas  y en muchas otras partes mas .</p>
+		   <p class="eys-parrafo"> He trabajado en albañileria de ayudante y tambien he trabajado en paros de planta en la refineria de Esmaraldas con la empresa contratista Leonardo Hernandez, esta enpresa era contratada por la empresa china SK que la refineria de esmeraldas contrataba la empresa china para que brinde sus servicios a la refineria de esmeraldas  y he trabajado en muchas otras partes mas .</p>
 
 
    <div id="blog-seccion3"  style="height: 50px;"></div>

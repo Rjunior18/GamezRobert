@@ -12,7 +12,7 @@ include("marco-right.php");
    <div  style="width: 100%;">     
     <div style="width: 100%; height:100%; margin: auto ; display:inline-block;" >
        <div style=" width:100%; height: 100%; top:0; font-size:20px; text-align:center; float:left;">
-        	<h1>¿Quién es Stalin Francis?</h1>
+        	<h1>¿Quien es Gamez Quiñonez Robert?</h1>
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
@@ -24,7 +24,7 @@ include("marco-right.php");
   </div>
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
-                   <p class="eys-parrafo">Hola, yo soy Gamez Robert,Esatudiante de la Universidad Tecnica Luis Vargas Torres, y estoy siguiendo la carrera de Ingieneria y Tecnología de la Información en las cuales estoy cruzando el 7mo ciclo,en donde estoy resiviendo la materia de Gestion  de Software, en la cual estamos trabajando con el programa termux, un repositorio github y un hosting llamado cpanel. </p>
+                   <p class="eys-parrafo">Hola, yo soy Gamez Robert, Esatudiante de la Universidad Tecnica Luis Vargas Torres, y estoy siguiendo la carrera de Ingieneria y Tecnología de la Información en las cuales estoy cruzando el 7mo ciclo, en donde estoy resiviendo la materia de Gestion  de Software, en la cual estamos trabajando con el programa termux, un repositorio github y un hosting llamado cpanel. </p>
                    <p class="eys-parrafo">Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. </p>
 <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar en el tercer ciclo de universidad fue el <b><a href="https://en.wikipedia.org/wiki/BASIC"> basic</a></b>  para este tiempo la ESPOL contaba con laboratorios de computadora  una computadora personal de marca IBM de tip XT modelo 5160  en es.</p>
 
@@ -35,22 +35,15 @@ include("marco-right.php");
 
 
                    <p class="eys-parrafo"> Mís estudios secundarios los he realisado en el Colegio Tecnico Luis Prado Viteri, que queda via a las palmas entre la para 11 y 12. Sacando el diploma en la especialidad de Tecnico en Electronica,culminando mis esrudios en el año 2009.</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente laboró.</p>
+                   <p class="eys-parrafo"> He trabajado en albañileria de ayudante y tambien he trabajado en paros de planta en la refineria de Esmaraldas con la empresa contratista Leonardo Hernandez, esta enpresa era contratada por la empresa china SK que la refineria de esmeraldas contrataba la empresa china para que brinde sus servicios a la refineria de esmeraldas  y en muchas otras partes mas .</p>
 <p class="eys-parrafo"> Por las exigencias de la universidad, ingresar a la maestria de docencia y desarrollo del curriculo, de la cual de grauduo obteniendo el título de Magister, pero despues realice otra maestría en la POLITECNICA, de Ciencias de la Computación.</p>
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
-    <h2 style="border-bottom: 1px solid green;"> Mi perfil informático</h2> 
-    
-
-
-                   <p  class="eys-parrafo">Mi perfil tecnológico es la programación de computadoras, mi primer programa lo hice en el leguaje Basic, utilizando el computador de la espol, luego programe c++, donde realiza algunos programa que leina el entregas del puerto serial y enviaban señales a un motor. Profesionalmente comenza programando en Informix un lenguaje de programación para el sistema Unix, utilizando uan versio de foxpro para unix, luego cuando aparecio la interface gráfica programe en foxpro y seguidamente visual foro.</p> 
-                   <p  class="eys-parrafo">Hoy en día creso sisemas web combinando HTML, CSS, JavaScrip y PHP; tambien aplicaciones para dispositivo androi para lo cual utilizo el framework android Studio, el cual utiliza el lenguaje de JAVA.</p>
-   <div id="blog-seccion4"  style="height: 50px;"></div>
 
     <h2 style="border-bottom: 1px solid green;"> Mis Hooby</h2> 
     
 
-                   <p   class="eys-parrafo">Soy amante a la lectura, así que en los ratos libres me encanta actualizar mis conocimientos leyendo manuales de los leguajes de progración que namejo, y tambien muchos noticias de las ultimas tendencias en tecnología.</p>
+                   <p   class="eys-parrafo">Me gusta el deporte, casi siempre hago un poco de ejecicio en casa y cuando hay al gun campwonato trato de participar para tener un buen fisico y tambien se que me ayudara a tener una buena salud.</p>
        
 
                    

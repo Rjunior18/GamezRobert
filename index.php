@@ -16,8 +16,8 @@ include("marco-right.php");
        		 <hr>
              
           <div id="posteo" style="text-align: left; font-size:0.5vw;">
-                Posteado por:  Stalin Francis<br>
-                Fecha: 2021-08-17 <br>
+                Posteado por:  Gamez Robert<br>
+                Fecha: 2022-11-19<br>
           </div>
         </div>
     </div>
@@ -76,14 +76,14 @@ include("marco-left.php")
  
 <script >  
 
- document.title="Stalin"; 
+ document.title="Gamez"; 
 document.getElementById("foto").src="./images/stalin.png";
-document.getElementById("elnombre").innerHTML="Stalin Francis";
+document.getElementById("elnombre").innerHTML="Gamez Robert";
 
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Kevin Aguilar</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='eys-kevin.php'>Rivera Fabricio</a></p><p><a href='eys-damaris.php'>Damaris Viallalva</a></p> ";
  </script>
  
 <?php

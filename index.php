@@ -83,7 +83,7 @@ document.getElementById("elnombre").innerHTML="Gamez Robert";
 
  document.getElementById("blog-indice").innerHTML="<p><b>Contenido</b></p><hr> <p><a href='#'>inicio</a></p><p><a href='#blog-seccion2'>Estudios</a></p><p><a href='#blog-seccion3'>Conocimiento informático</a></p><p><a href='#blog-seccion4'>Hooby</a></p>";
 
- document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://home/highkick/public_html/CORALalexander/'>Coral Alexander</a></p><p><a href='https://home/highkick/public_html/EscobarJair/'>Escobar Jair</a></p><p><a href='https://home/highkick/public_html/RiveraFabricio/'>Rivera Fabricio</a></p><p><a href='https://home/highkick/public_html/GamezRobert/'>Gamez Robert</a></p> ";
+ document.getElementById("blog-relacionados").innerHTML="<p><b>Temas relacionados:</b></p><hr> <p><a href='https://https://highkickesmeraldas.com/CoralAlexander//'>Coral Alexander</a></p><p><a href='https://https://highkickesmeraldas.com/EscobarJair/'>Escobar Jair</a></p><p><a href='https://https://highkickesmeraldas.com/RiveraFabricio/'>Rivera Fabricio</a></p><p><a href='https://https://highkickesmeraldas.com/GamezRobert/'>Gamez Robert</a></p> ";
  </script>
  
 <?php
